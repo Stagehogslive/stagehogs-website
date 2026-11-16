@@ -1,0 +1,16 @@
+{
+  "photos": [
+    {
+      "image": "assets/outdoor.jpg",
+      "alt": "The StageHogs performing outdoors"
+    },
+    {
+      "image": "assets/closeup.jpg",
+      "alt": "The StageHogs guitarists singing together"
+    },
+    {
+      "image": "assets/starbird.jpg",
+      "alt": "The StageHogs on stage"
+    }
+  ]
+}
