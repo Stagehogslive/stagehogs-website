@@ -5,6 +5,12 @@
       "venue": "Mirkwood Public House",
       "city": "Arlington, WA",
       "time": "8pm"
+    },
+    {
+      "date": "2027-06-05",
+      "venue": "Bertelsen Winery",
+      "city": "Mount Vernon, WA",
+      "time": "TBD"
     }
   ]
 }
